@@ -91,7 +91,7 @@ textarea {
   margin: 0.2em 0;
   background: #ccc;
   color: #000;
-  padding: 0.2em 0;
+ 
 
 }
 /* ==========================================================================
@@ -99,8 +99,80 @@ textarea {
    ========================================================================== */
 body{
 font-family: 'Hepta Slab', serif;
+background: #f2c185;
+}
+
+.background{
+  background: #d99066;
+  margin: 60px;
+  padding: 60px;
+}
+
+img {
+width: 250%;
+max-height: 250%;
 
 }
+
+.footercontact{
+  background: #d98484; 
+  width: 110%;
+
+
+}
+
+.home{
+  background: #ffffff;
+}
+
+.biography{
+  background: #ffffff;
+}
+
+.recent{
+background: #ffffff;
+}
+
+
+.footerbio{
+  background: #da9cab; 
+  width: 110%;
+  height:  15%;
+
+}
+
+
+.footerhome{
+  background: #da9cab; 
+  width: 110%;
+  height:  10%;
+
+}
+
+.projects{
+background: #ffffff;
+}
+
+.footerpro{
+  background: #e0a888; 
+  width: 110%;
+  height:  5%;
+
+}
+
+.footerrecent{
+  background: #e0a888; 
+  width: 110%;
+  height:  10%;
+
+
+
+
+
+
+
+
+
 
 /* ==========================================================================
    Helper classes
